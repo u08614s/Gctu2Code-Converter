@@ -1,2 +1,2 @@
 # Gctu2Code-Converter
-Convert Gctu to Code
+gctuからコードを取り出せます
